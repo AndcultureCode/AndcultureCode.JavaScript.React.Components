@@ -29,7 +29,7 @@
         "andculturecode-javascript-core": "0.1.5",
         "andculturecode-javascript-react": "0.1.0",
         "andculturecode-scss-grid": "2.0.4",
-        "axios": "0.19.2",
+        "axios": "0.21.1",
         "bourbon": "6.0.0",
         "i18next": "19.4.5",
         "immutable": "4.0.0-rc.12",
